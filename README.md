@@ -1,7 +1,7 @@
 # turbo-enigma-hogybaszn-dmeg
 óra
 
-"lorem ipsum dolor sit amet"
+"Lorem ipsum, dolor sit amet."
 - Sun Tzu, Art of War
 
 
